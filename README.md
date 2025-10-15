@@ -10,11 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/35371348?v=4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amitverma-cf/amitverma-cf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amitverma-cf/amitverma-cf/output/pacman.svg" alt="Snake animation" />
 
 ###
