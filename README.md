@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <i>Amit Verma<i/> and I'm a <i>Software Engineer</i>, from India</h2>
+<h2 align="left">Hi 👋! My name is <i>Amit Verma<i/> - <a href="https://amve.me">amve.me</a> </h2>
 
 ###
 
